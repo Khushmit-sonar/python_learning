@@ -1,6 +1,6 @@
 while True:
     line = input("> ")
-    if line == "done":
+    if line == "same":
         break
     print(line)
 print("khushmit")    
