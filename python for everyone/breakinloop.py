@@ -3,4 +3,4 @@ while True:
     if line == "same":
         break
     print(line)
-print("khushmit")    
+print("khushmit sonar")    
