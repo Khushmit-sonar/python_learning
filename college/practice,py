@@ -1,0 +1,20 @@
+import random
+print("Hello world")
+
+#print("hello "+ input("what is your name: "))
+
+#print("Hello "+ input("What is your name: ")+ " it's been nice to meet you......")
+
+
+#a = input("what is your first name: ")
+#print(len(a))
+
+
+
+#a = input("Enter two digit number: ")
+#b = int(a[0]) + int(a[1])
+#print(b)
+
+
+a = random.randint(1,10)
+print(a)
